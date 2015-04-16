@@ -1,10 +1,4 @@
-import csv
-from urllib.request import urlopen
-import io
-import json
 from pymongo import MongoClient
-from dateutil.parser import parse
-from datetime import datetime
 
 # In order for this to work, you need to run hmsParser.py FIRST
 
