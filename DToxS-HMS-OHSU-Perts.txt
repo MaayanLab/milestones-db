@@ -1,0 +1,200 @@
+Center	Perturbagen
+DTOXS	Afatinib
+DTOXS	Axitinib
+DTOXS	Bosutinib
+DTOXS	Cabozantinib
+DTOXS	Ceritinib
+DTOXS	Crizotinib
+DTOXS	Dabrafenib
+DTOXS	Dasatinib
+DTOXS	Erlotinib
+DTOXS	Gefitinib
+DTOXS	Imatinib
+DTOXS	Lapatinib
+DTOXS	Nilotinib
+DTOXS	Pazopanib
+DTOXS	ponatinib
+DTOXS	Regorafenib
+DTOXS	Ruxolitinib
+DTOXS	Sorafenib
+DTOXS	Sunitinib
+DTOXS	Tofacitinib
+DTOXS	Trametinib
+DTOXS	Vandetanib
+DTOXS	Vemurafenib
+DTOXS	Trastuzumab
+DTOXS	Trastuzumab + Ursodeoxycholic acid
+DTOXS	Trastuzumab + Loperamide
+DTOXS	Trastuzumab + Domperidone
+DTOXS	Sunitinib + Ursodeoxycholic acid
+DTOXS	Sunitinib + Domperidone
+DTOXS	Sunitinib + Loparemide
+DTOXS	Sunitinib + Prednisolone
+DTOXS	Sorafenib + Ursodeoxycholic acid
+DTOXS	Sorafenib + Entecavir
+DTOXS	Sorafenib + Diethylpropion
+DTOXS	Sorafenib + Olmesartan
+DTOXS	Sorefenib + Diclofenac
+DTOXS	Dasatinib + Cytarabine
+DTOXS	Erlotinib + Cefuroxime
+DTOXS	Imatinib + Cyclosporine
+DTOXS	Ursodeoxycholic acid
+DTOXS	Loperamide
+DTOXS	Domperidone
+DTOXS	Prednisolone
+DTOXS	Entecavir
+DTOXS	Diethylpropion
+DTOXS	Olmesartan
+DTOXS	Diclofenac
+DTOXS	Cytarabine
+DTOXS	Cefuroxime
+DTOXS	Cyclosporine
+HMS LINCS	GDC0941
+HMS LINCS	MK2206
+HMS LINCS	WYE125132
+HMS LINCS	Torin1
+HMS LINCS	PD0325901
+HMS LINCS	AZ628
+HMS LINCS	Selumetinib
+HMS LINCS	Vemurafenib
+HMS LINCS	PLX4720
+HMS LINCS	SB590885
+HMS LINCS	JNK-IN-8
+HMS LINCS	Vemurafenib + JNK-IN-8
+HMS LINCS	106 compounds
+HMS LINCS	CI1040
+HMS LINCS	A6730 (Sigma)
+HMS LINCS	PI103
+HMS LINCS	Lestaurtinib
+HMS LINCS	Ruxolitinib
+HMS LINCS	Tofacitinib
+HMS LINCS	EO1428
+HMS LINCS	JNK-IN-11
+HMS LINCS	IKK16
+HMS LINCS	IL-1
+HMS LINCS	TNFalpha
+HMS LINCS	poly IC
+HMS LINCS	PH 797804
+HMS LINCS	5z-7-oxozeaenol
+HMS LINCS	Tocilizumab
+HMS LINCS	177 compounds
+HMS LINCS	RA synovial fluid lot. no. 112050075
+HMS LINCS	RA synovial fluid lot no. 113060040
+HMS LINCS	RA synovial fluid lot no. 118050105
+HMS LINCS	interleukin-1alpha
+HMS LINCS	among HMSL compounds
+HMS LINCS	EGF
+HMS LINCS	PDGF
+HMS LINCS	NRG
+HMS LINCS	IGF
+HMS LINCS	FGF
+HMS LINCS	HGF
+HMS LINCS	TGF-Beta
+HMS LINCS	TNF
+MEP LINCS	Collagen I
+MEP LINCS	Collagen Type II
+MEP LINCS	Collagen Type III
+MEP LINCS	Collagen Type IV
+MEP LINCS	Collagen Type V
+MEP LINCS	Collagen XXIII alpha1/COL23A1
+MEP LINCS	Desmoglein 2
+MEP LINCS	E-cadherin Fc Chimera
+MEP LINCS	ECM1
+MEP LINCS	Fibronectin 1
+MEP LINCS	GAP43
+MEP LINCS	HyA-500K
+MEP LINCS	HyA-50K
+MEP LINCS	ICAM-1
+MEP LINCS	Integrin alpha10Beta1
+MEP LINCS	Integrin alpha11Beta1
+MEP LINCS	Integrin alpha2Beta1
+MEP LINCS	Integrin alpha3Beta1
+MEP LINCS	Integrin alpha4Beta1
+MEP LINCS	Integrin alpha6Beta4
+MEP LINCS	Integrin alpha9Beta1
+MEP LINCS	Integrin alphaMBeta2
+MEP LINCS	Integrin alphaVBeta6
+MEP LINCS	ITGAM-B2
+MEP LINCS	laminin
+MEP LINCS	Laminin-1
+MEP LINCS	Laminin-5
+MEP LINCS	Lumican
+MEP LINCS	M-Cadherin/Cadherin-15 Fc Chimera
+MEP LINCS	Osteoadherin
+MEP LINCS	Osteopontin
+MEP LINCS	P-Cadherin Fc Chimera
+MEP LINCS	PECAM1
+MEP LINCS	RGD-cyclic
+MEP LINCS	rhNidogen-1
+MEP LINCS	Tescin C
+MEP LINCS	VCAM1
+MEP LINCS	vitronectin
+MEP LINCS	ALCAM
+MEP LINCS	Cadherin-20 (CAD-20)
+MEP LINCS	Cadherin-6/KCAD Fc Chimera
+MEP LINCS	rhCadherin-8 (CAD-8)/FC Chimera
+MEP LINCS	CD44
+MEP LINCS	CEACAM6
+MEP LINCS	ANGPT1
+MEP LINCS	ANGPT2
+MEP LINCS	AREG (amphiregulin)
+MEP LINCS	CI-4AS-1
+MEP LINCS	CTGF
+MEP LINCS	CXCL12/SDF1a
+MEP LINCS	CXCL12/SDF1b aa 22-93
+MEP LINCS	DLL1
+MEP LINCS	DLL4
+MEP LINCS	EGF
+MEP LINCS	B-estradiol
+MEP LINCS	Fas Ligand/TNFSF6
+MEP LINCS	Fetuin A/AHSG
+MEP LINCS	FGF basic 146 aa
+MEP LINCS	FGF2
+MEP LINCS	FGF6
+MEP LINCS	FLT3
+MEP LINCS	GM-CSF
+MEP LINCS	Gro-a
+MEP LINCS	HGF
+MEP LINCS	IGF-1
+MEP LINCS	IGFBP2
+MEP LINCS	IGFBP3
+MEP LINCS	IL-7
+MEP LINCS	CXCL8/IL-8
+MEP LINCS	IL-13
+MEP LINCS	IL-15
+MEP LINCS	IL-6
+MEP LINCS	Interleukin-1 beta (IL-1Beta) [catabolin]
+MEP LINCS	Jagged 1 Fc Chimera
+MEP LINCS	Jagged 2
+MEP LINCS	Kininogen High Molecular Weight
+MEP LINCS	LECT2
+MEP LINCS	Leptin/OB
+MEP LINCS	LYVE-1
+MEP LINCS	a-HRG
+MEP LINCS	NRG1-Beta1/HRG1-Beta1 EGF domain
+MEP LINCS	Osteoprotegerin/TNFRSF11B
+MEP LINCS	Osteoactivin/GPNMB Fc Chimera
+MEP LINCS	PDGF-AB
+MEP LINCS	PDGF-BB
+MEP LINCS	Podoplanin
+MEP LINCS	Progesterone 
+MEP LINCS	PTN (pleiotropin)
+MEP LINCS	rhBMP-2
+MEP LINCS	rhBMP-3
+MEP LINCS	rhBMP-4
+MEP LINCS	rhBMP-5
+MEP LINCS	rhBMP-6
+MEP LINCS	rhBMP-7
+MEP LINCS	rhTRANCE
+MEP LINCS	SCF/c-kit ligand
+MEP LINCS	SHH
+MEP LINCS	SMDF-HRG
+MEP LINCS	TGF-Beta Latency Associated Protein
+MEP LINCS	TGF-B1
+MEP LINCS	TGF-B2
+MEP LINCS	TNFa
+MEP LINCS	Thrombopoietin/Tpo
+MEP LINCS	VEGF 165
+MEP LINCS	WNT3a
+MEP LINCS	WNT5a
+MEP LINCS	WNT10a

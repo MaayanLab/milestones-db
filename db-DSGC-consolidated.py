@@ -13,6 +13,7 @@ md.drop()
 
 dInit = {}
 mongoArr = []
+entryNum = 0
 
 # Ensure that milestones-consolidated has the correct information before
 # running
@@ -129,9 +130,9 @@ for inp in mcArr:
 
         if getPair[1]:
             pertCountMeta = getPair[1].split(";")
-            print(pertCountMeta)
+            #print(pertCountMeta)
             for countMeta in pertCountMeta:
-                print(countMeta)
+                #print(countMeta)
                 countData = countMeta.split(",")
                 pertCountDict = pertCountDictInit.copy()
                 if countData[0]:
@@ -236,7 +237,10 @@ for inp in mcArr:
         # Data release dates
         dateArr = []
         if inp[13]:
-            lvlOneDate = parse(inp[13] + ' -0600')
+            if '/' in inp[13]:
+                lvlOneDate = parse(inp[13] + ' -0600')
+            else:
+                lvlOneDate = inp[13]
             lvlOne = {
                 'date': lvlOneDate,
                 'releaseLevel': 1
@@ -273,9 +277,13 @@ for inp in mcArr:
         if inp[17]:
             dictTot['release-link'] = inp[17]
 
-        print(inp[18])
         if inp[18]:
             dictTot['phase'] = inp[18]
 
+        if inp[19]:
+            dictTot['lincs_id'] = inp[19]
+
         md.insert(dictTot)
-        print(dictTot)
+        #print(dictTot)
+        entryNum = entryNum + 1
+        print('Entry ' + str(entryNum) + ' was successful!')
