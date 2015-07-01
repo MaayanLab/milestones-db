@@ -6,7 +6,7 @@ from datetime import datetime
 from dateutil.parser import parse
 
 # Connect to LINCS db and set milestones collection
-client = MongoClient('mongodb://username:password@localhost/LINCS')
+client = MongoClient('mongodb://146.203.54.165:27017/LINCS')
 db = client['LINCS']
 md = db["milestones"]
 md.drop()
@@ -283,7 +283,9 @@ for inp in mcArr:
         if inp[19]:
             dictTot['lincs_id'] = inp[19]
 
+        dictTot['dcic-assay-name'] = inp[20]
+
         md.insert(dictTot)
-        #print(dictTot)
-        entryNum = entryNum + 1
+        # print(dictTot)
+        entryNum += 1
         print('Entry ' + str(entryNum) + ' was successful!')
