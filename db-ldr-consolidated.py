@@ -5,11 +5,11 @@ from pymongo import MongoClient
 from datetime import datetime
 from dateutil.parser import parse
 
-client = MongoClient('mongodb://mmcdermott:kroyweN@loretta/LINCS')
+client = MongoClient('mongodb://username:passwordloretta/LINCS')
 db = client['LINCS']
 md = db['milestones']
 
-ldrClient = MongoClient('mongodb://mmcdermott:kroyweN@loretta/Milestones')
+ldrClient = MongoClient('mongodb://username:password@loretta/Milestones')
 ldrDb = ldrClient['Milestones']
 mdAssays = ldrDb['assays']
 mdCellLines = ldrDb['cellLines']
